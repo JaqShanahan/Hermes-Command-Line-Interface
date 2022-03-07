@@ -1,4 +1,4 @@
-## Release Notes `1.0.0`
+## Hermes Command Line Interface `1.0.0`
 - #### First Release of the Hermes Program.
 ## Changes
 - #### None as of yet.
